@@ -1,107 +1,117 @@
 is_global = true
 build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Budget_Baddie
 build_property.RootNamespace = Budget_Baddie
-build_property.ProjectDir = C:\Users\SHAM\budget-buddy-orig\
+build_property.ProjectDir = C:\Users\Dannah Torres\Downloads\budget-buddy\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.RazorLangVersion = 8.0
+build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\SHAM\budget-buddy-orig
+build_property.MSBuildProjectDirectory = C:\Users\Dannah Torres\Downloads\budget-buddy
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/SHAM/budget-buddy-orig/Pages/CategoriesList.razor]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Pages/CategoriesList.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc0xpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHAM/budget-buddy-orig/Pages/TransactionList.razor]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Pages/TransactionList.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnNhY3Rpb25MaXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHAM/budget-buddy-orig/Views/AdminUser/Index.cshtml]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Views/AdminUser/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Vc2VyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHAM/budget-buddy-orig/Views/Admin/Index.cshtml]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHAM/budget-buddy-orig/Views/Category/AddOrEdit.cshtml]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Views/Category/AddOrEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkT3JFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHAM/budget-buddy-orig/Views/Category/Index.cshtml]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHAM/budget-buddy-orig/Views/Dashboard/Index.cshtml]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHAM/budget-buddy-orig/Views/GamificationAdmin/Gamification.cshtml]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Views/GamificationAdmin/Gamification.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtaWZpY2F0aW9uQWRtaW5cR2FtaWZpY2F0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHAM/budget-buddy-orig/Views/Home/Index.cshtml]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHAM/budget-buddy-orig/Views/Home/Privacy.cshtml]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHAM/budget-buddy-orig/Views/Log/Index.cshtml]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Views/Log/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHAM/budget-buddy-orig/Views/Shared/Error.cshtml]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHAM/budget-buddy-orig/Views/Shared/_AdminSideBar.cshtml]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Views/Shared/_AdminSideBar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pblNpZGVCYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHAM/budget-buddy-orig/Views/Shared/_LogInLayout.cshtml]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Views/Shared/_LogInLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dJbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHAM/budget-buddy-orig/Views/Shared/_SideBar.cshtml]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Views/Shared/_SideBar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlQmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHAM/budget-buddy-orig/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHAM/budget-buddy-orig/Views/Transaction/AddOrEdit.cshtml]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Views/Transaction/AddOrEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25cQWRkT3JFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHAM/budget-buddy-orig/Views/Transaction/Index.cshtml]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Views/Transaction/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHAM/budget-buddy-orig/Views/_ViewImports.cshtml]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHAM/budget-buddy-orig/Views/_ViewStart.cshtml]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHAM/budget-buddy-orig/Views/Shared/_AdminLayout.cshtml]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-4i4ah9ob2g
 
-[C:/Users/SHAM/budget-buddy-orig/Views/Shared/_Layout.cshtml]
+[C:/Users/Dannah Torres/Downloads/budget-buddy/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-b04nhogkfr
