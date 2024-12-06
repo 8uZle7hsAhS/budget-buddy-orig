@@ -1,0 +1,104 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml"; // Use your layout if applicable
+    var userSummaries = ViewBag.UserSummaries as List<Budget_Baddie.Controllers.AdminUserController.UserSummary>;
+    var doughnutChartData = ViewBag.DoughnutChartData as List<dynamic>;
+    var paletteColors = ViewBag.PaletteColors as string[];
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Expenses</title>
+    <!-- Syncfusion Stylesheets -->
+    <link href="https://cdn.syncfusion.com/ej2/20.3.47/material.css" rel="stylesheet" />
+    <script src="https://cdn.syncfusion.com/ej2/20.3.47/dist/ej2.min.js"></script>
+    <style>
+        .user-table {
+            width: 100%;
+            margin-bottom: 2rem;
+            border-collapse: collapse;
+            background: #1a222b;
+            color: #fff;
+        }
+
+            .user-table th, .user-table td {
+                padding: 10px;
+                text-align: left;
+                border: 1px solid #444;
+            }
+
+            .user-table th {
+                background: #333;
+            }
+
+        .chart-container {
+            text-align: center;
+            padding: 1rem;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>User Expenses Overview</h1>
+
+    @if (userSummaries != null && userSummaries.Any())
+    {
+        foreach (var user in userSummaries)
+        {
+            var userChartData = doughnutChartData?.FirstOrDefault(d => d.UserId == user.UserId)?.ExpenseData;
+            <table class="user-table">
+                <thead>
+                    <tr>
+                        <th>User ID</th>
+                        <th>Username</th>
+                        <th>Income</th>
+                        <th>Expense By Category</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>@user.UserId</td>
+                        <td>@user.Username</td>
+                        <td>@user.Income.ToString("C")</td>
+                        <td class="chart-container">
+                            @if (userChartData != null)
+                            {
+                                <ejs-accumulationchart id="doughnutchart-@user.UserId" enableSmartLabels="true" background="#1a222b">
+                                    <e-accumulation-series-collection>
+                                        <e-accumulation-series dataSource="@ViewBag.DoughnutChartData[user.UserId]"
+                                                               xName="categoryTitleWithIcon"
+                                                               yName="amount"
+                                                               innerRadius="60%"
+                                                               legendShape="Circle"
+                                                               palettes="@ViewBag.PaletteColors">
+                                            <e-accumulationseries-datalabel name="formattedAmount" visible="true"></e-accumulationseries-datalabel>
+                                        </e-accumulation-series>
+                                    </e-accumulation-series-collection>
+                                    <e-accumulationchart-legendsettings position="Top" toggleVisibility="false">
+                                        <e-legendsettings-textstyle color="#fff" size="1rem"></e-legendsettings-textstyle>
+                                    </e-accumulationchart-legendsettings>
+                                    <e-accumulationchart-tooltipsettings enable="true"></e-accumulationchart-tooltipsettings>
+                                </ejs-accumulationchart>
+
+                            }
+                            else
+                            {
+                                <p>No expense data available.</p>
+                            }
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        }
+    }
+    else
+    {
+        <p>No user data available.</p>
+    }
+
+    <!-- Syncfusion Scripts -->
+    <script src="https://cdn.syncfusion.com/ej2/20.3.47/dist/ej2.min.js"></script>
+</body>
+</html>

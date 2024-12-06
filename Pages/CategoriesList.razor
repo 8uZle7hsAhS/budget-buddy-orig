@@ -1,0 +1,102 @@
+﻿@page "/categories"
+@inject Budget_Baddie.Services.CategoryService CategoryService
+
+<h3>Categories</h3>
+
+<div class="dropdown mb-4">
+    <button class="btn btn-secondary dropdown-toggle" type="button" id="typeFilterDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+        @selectedTypeText
+    </button>
+    <ul class="dropdown-menu" aria-labelledby="typeFilterDropdown">
+        <li><a class="dropdown-item" href="#" @onclick="() => OnFilterChanged(null)">All</a></li>
+        <li><a class="dropdown-item" href="#" @onclick="() => OnFilterChanged(" Income")">Income</a></li>
+        <li><a class="dropdown-item" href="#" @onclick="() => OnFilterChanged(" Expense")">Expense</a></li>
+    </ul>
+</div>
+
+@if (categories != null)
+{
+    @if (!string.IsNullOrEmpty(selectedType))
+    {
+        <h4>@selectedType Categories</h4>
+        <div class="row">
+            @foreach (var category in categories)
+            {
+                <div class="col-md-4">
+                    <div class="card mb-3">
+                        <div class="card-body d-flex align-items-center">
+                            <i class="fa-solid fa-@category.Icon fa-2x me-3"></i>
+                            <span>@category.Title</span>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        @foreach (var group in groupedCategories)
+        {
+            <div class="mb-4">
+                <h4>@group.Key</h4>
+                <div class="row">
+                    @foreach (var category in group)
+                    {
+                        <div class="col-md-4">
+                            <div class="card mb-3">
+                                <div class="card-body d-flex align-items-center">
+                                    <i class="fa-solid fa-@category.Icon fa-2x me-3"></i>
+                                    <span>@category.Title</span>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        }
+    }
+}
+else
+{
+    <p><em>Loading...</em></p>
+}
+
+@code {
+    private IEnumerable<IGrouping<string, Budget_Baddie.Models.Category>> groupedCategories;
+    private List<Budget_Baddie.Models.Category> categories;
+    private string selectedType;
+    private string selectedTypeText = "All";
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadCategories();
+    }
+
+    private async Task LoadCategories()
+    {
+        if (string.IsNullOrEmpty(selectedType))
+        {
+            var allCategories = await CategoryService.GetCategoriesAsync();
+            groupedCategories = allCategories.GroupBy(c => c.Type);
+        }
+        else
+        {
+            categories = await CategoryService.GetCategoriesByTypeAsync(selectedType);
+        }
+    }
+
+    private async Task OnFilterChanged(string type)
+    {
+        selectedType = type;
+        selectedTypeText = string.IsNullOrEmpty(type) ? "All" : type;
+        if (string.IsNullOrEmpty(selectedType))
+        {
+            categories = null;
+        }
+        else
+        {
+            groupedCategories = null;
+        }
+        await LoadCategories();
+    }
+}

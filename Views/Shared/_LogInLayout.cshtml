@@ -1,0 +1,51 @@
+﻿@{
+    var controller = ViewContext.RouteData.Values["LogController"]?.ToString() ?? string.Empty;
+    var action = ViewContext.RouteData.Values["Action"]?.ToString() ?? string.Empty;
+
+    // Check if it's the login page
+    var isLoginPage = controller.Equals("Log", StringComparison.OrdinalIgnoreCase) && action.Equals("Index", StringComparison.OrdinalIgnoreCase);
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Budget Baddie</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+    <script src="https://cdn.syncfusion.com/ej2/20.1.55/dist/ej2.min.js"></script>
+</head>
+<body class="e-bigger">
+    @* Render only the body content when on the login page *@
+    @if (isLoginPage)
+    {
+        @RenderBody()
+    }
+    else
+    {
+        <div class="dock-target">
+            <nav class="navbar sticky-top">
+                <div class="container-fluid py-2 px-4">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                    <div>
+                        <i class="fa-solid fa-bell"></i>
+                        <i class="fa-solid fa-message"></i>
+                    </div>
+                </div>
+            </nav>
+
+            <div class="main-content">
+                <div class="container mt-5">
+                    <div class="row justify-content-center">
+                        <main role="main" class="pb-3">
+                            @RenderBody()
+                        </main>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+    <script src="~/js/script.js" asp-append-version="true"></script>
+</body>
+</html>

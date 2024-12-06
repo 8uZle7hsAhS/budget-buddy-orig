@@ -1,0 +1,53 @@
+﻿@page "/transactions"
+   @inject Budget_Baddie.Services.TransactionService TransactionService
+
+<h3>Transactions</h3>
+
+<div class="mb-3">
+    <label for="sortSelect" class="form-label">Sort By:</label>
+    <select id="sortSelect" class="form-select" @onchange="SortTransactions">
+        <option value="date">Date</option>
+        <option value="amount">Amount</option>
+        <option value="category">Category</option>
+    </select>
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Amount</th>
+            <th>Date</th>
+            <th>Category</th>
+            <th>Note</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (transactions != null)
+        {
+            @foreach (var transaction in transactions)
+            {
+                <tr>
+                    <td>@transaction.FormattedAmount</td>
+                    <td>@transaction.Date.ToString("MM/dd/yyyy")</td>
+                    <td>@transaction.CategoryTitleWithIcon</td>
+                    <td>@transaction.Note</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+@code {
+    private List<Budget_Baddie.Models.Transaction> transactions = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        transactions = await TransactionService.GetTransactionsAsync("date");
+    }
+
+    private async Task SortTransactions(ChangeEventArgs e)
+    {
+        var sortBy = e.Value?.ToString() ?? "date";
+        transactions = await TransactionService.GetTransactionsAsync(sortBy);
+    }
+}

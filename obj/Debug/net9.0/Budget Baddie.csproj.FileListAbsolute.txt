@@ -1,0 +1,875 @@
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\Budget Baddie.csproj.AssemblyReference.cache
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\Budget Baddie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\Budget Baddie.AssemblyInfoInputs.cache
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\Budget Baddie.AssemblyInfo.cs
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\Budget Baddie.csproj.CoreCompileInputs.cache
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\Budget Baddie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\Budget Baddie.RazorAssemblyInfo.cache
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\Budget Baddie.RazorAssemblyInfo.cs
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\appsettings.json
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Budget Baddie.staticwebassets.runtime.json
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Budget Baddie.staticwebassets.endpoints.json
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Budget Baddie.exe
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Budget Baddie.deps.json
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Budget Baddie.runtimeconfig.json
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Budget Baddie.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Budget Baddie.pdb
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Syncfusion.EJ2.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\Syncfusion.Licensing.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\Budget Baddie.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\scopedcss\bundle\Budget Baddie.styles.css
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\scopedcss\projectbundle\Budget Baddie.bundle.scp.css
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\8doayoy1bd-ihz5u0lihh.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\irzlby9kh5-xtxxf3hu2r.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\qb0b5g2jbx-bqjiyaj88i.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\8n3p05tysb-c2jlpeoesf.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\ipdjrr4l6b-erw9l3u2r3.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\wqtplr4tr7-aexeepp0ev.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\391h2aslfj-d7shbmvgxk.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\yuol47uhhf-ausgxo2sd3.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\zbxs4noiua-k8d9w2qqmf.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\mtdc3oymbw-cosvhxvwiu.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\l9dahfaedh-ub07r2b239.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\ndct9n2j02-fvhpjtyr6v.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\2i9llvih5h-b7pk76d08c.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\jy0gzz58zu-fsbi9cje9m.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\w8gxxqnm0s-rzd6atqjts.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\jv7q8lkp03-ee0r1s7dh0.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\nsvav8vkw3-dxx9fxp4il.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\2ydy2o9893-jd9uben2k1.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\euud83xmwv-khv3u5hwcm.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\dyfcvjh10a-r4e9w2rdcm.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\nvvuh3sqe1-lcd1t2u6c8.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\2m5apuweqc-c2oey78nd0.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\2c3bv0e5u3-tdbxkamptv.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\gavyrq9p9e-j5mq2jizvt.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\r1q76obaqe-06098lyss8.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\r5yoy6l9dl-nvvlpmu67g.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\66qg22szt8-s35ty4nyc5.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\61bno11hr2-pj5nd1wqec.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\yduw18zihp-46ein0sx1k.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\0o4g0nez18-v0zj4ognzu.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\26fz5j7xrf-37tfw0ft22.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\v40z9a6052-hrwsygsryq.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\0k3xp8l6jr-pk9g2wxc8p.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\02pn134svt-ft3s53vfgj.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\xr1pcbpux6-6cfz1n2cew.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\pilpmcn8tb-6pdc2jztkx.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\q4yvqa222m-493y06b0oq.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\m378fym1k3-iovd86k7lj.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\c4ffp5572w-vr1egmr9el.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\jt6koflfso-kbrnm935zg.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\bfay7kz083-jj8uyg4cgr.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\7aqvm7kppx-y7v9cxd14o.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\vov7ezs9rf-notf2xhcfb.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\1oc8eaeysy-h1s4sie4z3.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\mvei6622n6-63fj8s7r0e.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\yrmwmb4xp4-0j3bgjxly4.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\h2hdzy0dpv-47otxtyo56.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\qed6hcvx4v-4v8eqarkd7.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\7pxambwoki-356vix0kms.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\p59jzlpaqc-83jwlth58m.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\eoi7c1h9jq-mrlpezrjn3.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\85ca24wlq6-lzl9nlhx6b.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\gm4lc4vmab-ag7o75518u.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\o10gtwej33-x0q3zqp4vz.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\obiq49v33e-0i3buxo5is.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\kctn5542jt-o1o13a6vjx.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\v30u2w6n7i-ttgo8qnofa.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\w97n94l8xy-2z0ns9nrw6.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\746329ovvh-muycvpuwrr.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\74f7tv230q-87fc7y1x7t.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\9fvpg4l0wa-mlv21k5csn.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\staticwebassets\msbuild.Budget Baddie.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\staticwebassets\msbuild.Budget Baddie.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\staticwebassets\msbuild.build.Budget Baddie.props
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Budget Baddie.props
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Budget Baddie.props
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\Budget B.51587288.Up2Date
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\Budget Baddie.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\refint\Budget Baddie.dll
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\Budget Baddie.pdb
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\Budget Baddie.genruntimeconfig.cache
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\ref\Budget Baddie.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\appsettings.Development.json
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\appsettings.json
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Budget Baddie.staticwebassets.runtime.json
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Budget Baddie.staticwebassets.endpoints.json
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Budget Baddie.exe
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Budget Baddie.deps.json
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Budget Baddie.runtimeconfig.json
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Budget Baddie.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Budget Baddie.pdb
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Humanizer.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Syncfusion.EJ2.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Syncfusion.Licensing.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\System.CodeDom.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.csproj.AssemblyReference.cache
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.AssemblyInfoInputs.cache
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.AssemblyInfo.cs
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.csproj.CoreCompileInputs.cache
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.MvcApplicationPartsAssemblyInfo.cs
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.MvcApplicationPartsAssemblyInfo.cache
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.RazorAssemblyInfo.cache
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.RazorAssemblyInfo.cs
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\scopedcss\bundle\Budget Baddie.styles.css
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\scopedcss\projectbundle\Budget Baddie.bundle.scp.css
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\1c9ab2d96j-j1qzcxo4nu.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\8doayoy1bd-ihz5u0lihh.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\93kv2u2067-cdvsoxv6ho.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\irzlby9kh5-xtxxf3hu2r.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\qb0b5g2jbx-bqjiyaj88i.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\8n3p05tysb-c2jlpeoesf.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\ipdjrr4l6b-erw9l3u2r3.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\wqtplr4tr7-aexeepp0ev.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\391h2aslfj-d7shbmvgxk.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\yuol47uhhf-ausgxo2sd3.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\zbxs4noiua-k8d9w2qqmf.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\mtdc3oymbw-cosvhxvwiu.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\l9dahfaedh-ub07r2b239.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\ndct9n2j02-fvhpjtyr6v.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\2i9llvih5h-b7pk76d08c.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\jy0gzz58zu-fsbi9cje9m.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\w8gxxqnm0s-rzd6atqjts.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\jv7q8lkp03-ee0r1s7dh0.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\nsvav8vkw3-dxx9fxp4il.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\2ydy2o9893-jd9uben2k1.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\euud83xmwv-khv3u5hwcm.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\dyfcvjh10a-r4e9w2rdcm.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\nvvuh3sqe1-lcd1t2u6c8.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\2m5apuweqc-c2oey78nd0.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\2c3bv0e5u3-tdbxkamptv.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\gavyrq9p9e-j5mq2jizvt.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\r1q76obaqe-06098lyss8.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\r5yoy6l9dl-nvvlpmu67g.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\66qg22szt8-s35ty4nyc5.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\61bno11hr2-pj5nd1wqec.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\yduw18zihp-46ein0sx1k.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\0o4g0nez18-v0zj4ognzu.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\26fz5j7xrf-37tfw0ft22.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\v40z9a6052-hrwsygsryq.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\0k3xp8l6jr-pk9g2wxc8p.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\02pn134svt-ft3s53vfgj.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\xr1pcbpux6-6cfz1n2cew.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\pilpmcn8tb-6pdc2jztkx.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\q4yvqa222m-493y06b0oq.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\m378fym1k3-iovd86k7lj.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\c4ffp5572w-vr1egmr9el.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\jt6koflfso-kbrnm935zg.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\bfay7kz083-jj8uyg4cgr.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\7aqvm7kppx-y7v9cxd14o.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\vov7ezs9rf-notf2xhcfb.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\1oc8eaeysy-h1s4sie4z3.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\mvei6622n6-63fj8s7r0e.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\yrmwmb4xp4-0j3bgjxly4.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\h2hdzy0dpv-47otxtyo56.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\qed6hcvx4v-4v8eqarkd7.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\7pxambwoki-356vix0kms.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\p59jzlpaqc-83jwlth58m.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\eoi7c1h9jq-mrlpezrjn3.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\85ca24wlq6-lzl9nlhx6b.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\gm4lc4vmab-ag7o75518u.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\o10gtwej33-x0q3zqp4vz.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\obiq49v33e-0i3buxo5is.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\kctn5542jt-o1o13a6vjx.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\v30u2w6n7i-ttgo8qnofa.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\w97n94l8xy-2z0ns9nrw6.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\746329ovvh-muycvpuwrr.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\74f7tv230q-87fc7y1x7t.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\9fvpg4l0wa-mlv21k5csn.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\staticwebassets.build.json
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\staticwebassets.development.json
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\staticwebassets\msbuild.Budget Baddie.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\staticwebassets\msbuild.Budget Baddie.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\staticwebassets\msbuild.build.Budget Baddie.props
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Budget Baddie.props
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Budget Baddie.props
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\staticwebassets.pack.json
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget B.51587288.Up2Date
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\refint\Budget Baddie.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.pdb
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.genruntimeconfig.cache
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\ref\Budget Baddie.dll
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\65pnnkd0ha-p6mavpudps.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\qfyo3t60z0-p6mavpudps.gz
+D:\SCHOOL FILES\SUBMISSIONS\OOP\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\8xr10y4y7o-td1viuw1qp.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.csproj.AssemblyReference.cache
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.AssemblyInfoInputs.cache
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.AssemblyInfo.cs
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.csproj.CoreCompileInputs.cache
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.MvcApplicationPartsAssemblyInfo.cs
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.MvcApplicationPartsAssemblyInfo.cache
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.RazorAssemblyInfo.cache
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.RazorAssemblyInfo.cs
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\refint\Budget Baddie.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.pdb
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\appsettings.Development.json
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\appsettings.json
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Budget Baddie.staticwebassets.runtime.json
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Budget Baddie.staticwebassets.endpoints.json
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Budget Baddie.exe
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Budget Baddie.deps.json
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Budget Baddie.runtimeconfig.json
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Budget Baddie.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Budget Baddie.pdb
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Humanizer.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Syncfusion.EJ2.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\Syncfusion.Licensing.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\System.CodeDom.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\scopedcss\bundle\Budget Baddie.styles.css
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\scopedcss\projectbundle\Budget Baddie.bundle.scp.css
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\8xr10y4y7o-ydy29oduh2.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\1c9ab2d96j-j1qzcxo4nu.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\8doayoy1bd-ihz5u0lihh.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\93kv2u2067-cdvsoxv6ho.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\irzlby9kh5-xtxxf3hu2r.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\qb0b5g2jbx-bqjiyaj88i.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\8n3p05tysb-c2jlpeoesf.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\ipdjrr4l6b-erw9l3u2r3.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\wqtplr4tr7-aexeepp0ev.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\391h2aslfj-d7shbmvgxk.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\yuol47uhhf-ausgxo2sd3.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\zbxs4noiua-k8d9w2qqmf.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\mtdc3oymbw-cosvhxvwiu.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\l9dahfaedh-ub07r2b239.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\ndct9n2j02-fvhpjtyr6v.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\2i9llvih5h-b7pk76d08c.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\jy0gzz58zu-fsbi9cje9m.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\w8gxxqnm0s-rzd6atqjts.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\jv7q8lkp03-ee0r1s7dh0.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\nsvav8vkw3-dxx9fxp4il.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\2ydy2o9893-jd9uben2k1.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\euud83xmwv-khv3u5hwcm.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\dyfcvjh10a-r4e9w2rdcm.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\nvvuh3sqe1-lcd1t2u6c8.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\2m5apuweqc-c2oey78nd0.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\2c3bv0e5u3-tdbxkamptv.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\gavyrq9p9e-j5mq2jizvt.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\r1q76obaqe-06098lyss8.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\r5yoy6l9dl-nvvlpmu67g.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\66qg22szt8-s35ty4nyc5.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\61bno11hr2-pj5nd1wqec.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\yduw18zihp-46ein0sx1k.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\0o4g0nez18-v0zj4ognzu.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\26fz5j7xrf-37tfw0ft22.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\v40z9a6052-hrwsygsryq.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\0k3xp8l6jr-pk9g2wxc8p.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\02pn134svt-ft3s53vfgj.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\xr1pcbpux6-6cfz1n2cew.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\pilpmcn8tb-6pdc2jztkx.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\q4yvqa222m-493y06b0oq.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\m378fym1k3-iovd86k7lj.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\c4ffp5572w-vr1egmr9el.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\jt6koflfso-kbrnm935zg.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\bfay7kz083-jj8uyg4cgr.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\7aqvm7kppx-y7v9cxd14o.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\vov7ezs9rf-notf2xhcfb.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\1oc8eaeysy-h1s4sie4z3.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\mvei6622n6-63fj8s7r0e.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\yrmwmb4xp4-0j3bgjxly4.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\h2hdzy0dpv-47otxtyo56.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\qed6hcvx4v-4v8eqarkd7.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\7pxambwoki-356vix0kms.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\p59jzlpaqc-83jwlth58m.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\eoi7c1h9jq-mrlpezrjn3.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\85ca24wlq6-lzl9nlhx6b.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\gm4lc4vmab-ag7o75518u.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\o10gtwej33-x0q3zqp4vz.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\obiq49v33e-0i3buxo5is.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\kctn5542jt-o1o13a6vjx.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\v30u2w6n7i-ttgo8qnofa.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\w97n94l8xy-2z0ns9nrw6.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\746329ovvh-muycvpuwrr.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\74f7tv230q-87fc7y1x7t.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\9fvpg4l0wa-mlv21k5csn.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\staticwebassets.build.json
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\staticwebassets.development.json
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\staticwebassets\msbuild.Budget Baddie.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\staticwebassets\msbuild.Budget Baddie.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\staticwebassets\msbuild.build.Budget Baddie.props
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Budget Baddie.props
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Budget Baddie.props
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\staticwebassets.pack.json
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget B.51587288.Up2Date
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\Budget Baddie.genruntimeconfig.cache
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\ref\Budget Baddie.dll
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\65pnnkd0ha-9gksb4kkwf.gz
+D:\SCHOOL FILES\SUBMISSIONS\DATASTRUC\Budget Baddie\Budget Baddie\obj\Debug\net9.0\compressed\qfyo3t60z0-9gksb4kkwf.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\8xr10y4y7o-ydy29oduh2.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\1c9ab2d96j-j1qzcxo4nu.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\93kv2u2067-cdvsoxv6ho.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\65pnnkd0ha-9gksb4kkwf.gz
+C:\Users\Dannah Torres\source\repos\Budget Baddie\obj\Debug\net9.0\compressed\qfyo3t60z0-9gksb4kkwf.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\appsettings.json
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Budget Baddie.staticwebassets.runtime.json
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Budget Baddie.staticwebassets.endpoints.json
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Budget Baddie.exe
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Budget Baddie.deps.json
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Budget Baddie.runtimeconfig.json
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Budget Baddie.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Budget Baddie.pdb
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Syncfusion.EJ2.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\Syncfusion.Licensing.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\Budget Baddie.csproj.AssemblyReference.cache
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\Budget Baddie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\Budget Baddie.AssemblyInfoInputs.cache
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\Budget Baddie.AssemblyInfo.cs
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\Budget Baddie.csproj.CoreCompileInputs.cache
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\Budget Baddie.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\Budget Baddie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\Budget Baddie.RazorAssemblyInfo.cache
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\Budget Baddie.RazorAssemblyInfo.cs
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\scopedcss\bundle\Budget Baddie.styles.css
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\scopedcss\projectbundle\Budget Baddie.bundle.scp.css
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\8xr10y4y7o-p9ii2y5htz.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\1c9ab2d96j-j1qzcxo4nu.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\8doayoy1bd-ihz5u0lihh.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\93kv2u2067-cdvsoxv6ho.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\irzlby9kh5-xtxxf3hu2r.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\qb0b5g2jbx-bqjiyaj88i.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\8n3p05tysb-c2jlpeoesf.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\ipdjrr4l6b-erw9l3u2r3.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\wqtplr4tr7-aexeepp0ev.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\391h2aslfj-d7shbmvgxk.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\yuol47uhhf-ausgxo2sd3.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\zbxs4noiua-k8d9w2qqmf.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\mtdc3oymbw-cosvhxvwiu.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\l9dahfaedh-ub07r2b239.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\ndct9n2j02-fvhpjtyr6v.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\2i9llvih5h-b7pk76d08c.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\jy0gzz58zu-fsbi9cje9m.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\w8gxxqnm0s-rzd6atqjts.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\jv7q8lkp03-ee0r1s7dh0.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\nsvav8vkw3-dxx9fxp4il.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\2ydy2o9893-jd9uben2k1.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\euud83xmwv-khv3u5hwcm.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\dyfcvjh10a-r4e9w2rdcm.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\nvvuh3sqe1-lcd1t2u6c8.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\2m5apuweqc-c2oey78nd0.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\2c3bv0e5u3-tdbxkamptv.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\gavyrq9p9e-j5mq2jizvt.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\r1q76obaqe-06098lyss8.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\r5yoy6l9dl-nvvlpmu67g.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\66qg22szt8-s35ty4nyc5.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\61bno11hr2-pj5nd1wqec.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\yduw18zihp-46ein0sx1k.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\0o4g0nez18-v0zj4ognzu.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\26fz5j7xrf-37tfw0ft22.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\v40z9a6052-hrwsygsryq.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\0k3xp8l6jr-pk9g2wxc8p.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\02pn134svt-ft3s53vfgj.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\xr1pcbpux6-6cfz1n2cew.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\pilpmcn8tb-6pdc2jztkx.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\q4yvqa222m-493y06b0oq.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\m378fym1k3-iovd86k7lj.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\c4ffp5572w-vr1egmr9el.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\jt6koflfso-kbrnm935zg.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\bfay7kz083-jj8uyg4cgr.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\7aqvm7kppx-y7v9cxd14o.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\vov7ezs9rf-notf2xhcfb.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\1oc8eaeysy-h1s4sie4z3.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\mvei6622n6-63fj8s7r0e.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\yrmwmb4xp4-0j3bgjxly4.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\h2hdzy0dpv-47otxtyo56.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\qed6hcvx4v-4v8eqarkd7.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\7pxambwoki-356vix0kms.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\p59jzlpaqc-83jwlth58m.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\eoi7c1h9jq-mrlpezrjn3.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\85ca24wlq6-lzl9nlhx6b.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\gm4lc4vmab-ag7o75518u.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\o10gtwej33-x0q3zqp4vz.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\obiq49v33e-0i3buxo5is.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\kctn5542jt-o1o13a6vjx.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\v30u2w6n7i-ttgo8qnofa.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\w97n94l8xy-2z0ns9nrw6.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\746329ovvh-muycvpuwrr.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\74f7tv230q-87fc7y1x7t.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\9fvpg4l0wa-mlv21k5csn.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\65pnnkd0ha-9gksb4kkwf.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\compressed\qfyo3t60z0-9gksb4kkwf.gz
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\staticwebassets\msbuild.Budget Baddie.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\staticwebassets\msbuild.Budget Baddie.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\staticwebassets\msbuild.build.Budget Baddie.props
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Budget Baddie.props
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Budget Baddie.props
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\Budget B.51587288.Up2Date
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\Budget Baddie.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\refint\Budget Baddie.dll
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\Budget Baddie.pdb
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\Budget Baddie.genruntimeconfig.cache
+C:\Users\Dannah Torres\Downloads\Budget Baddie-20241204T102214Z-001\Budget Baddie\obj\Debug\net9.0\ref\Budget Baddie.dll

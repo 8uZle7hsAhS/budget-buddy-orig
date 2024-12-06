@@ -1,0 +1,82 @@
+﻿@{
+    Layout = "~/Views/Shared/_LogInLayout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="form-box login">
+            <form action="/Log/Success" method="POST">
+                <h1>Login</h1>
+                <div class="input-box">
+                    <input type="text" name="username" placeholder="Username" required>
+                    <i class="bx bxs-user"></i>
+                </div>
+                <div class="input-box">
+                    <input type="password" name="password" placeholder="Password" required>
+                    <i class="bx bxs-lock-alt"></i>
+                </div>
+                <div class="forgot-link">
+                    <a href="#">Forgot password?</a>
+                </div>
+
+                <!-- Error message display if login fails -->
+                @if (!ViewData.ModelState.IsValid && ViewData.ModelState[""]?.Errors.Count > 0)
+                {
+                    <div class="error-message">
+                        @foreach (var error in ViewData.ModelState[""].Errors)
+                        {
+                            <p>@error.ErrorMessage</p>
+                        }
+                    </div>
+                }
+
+                <button type="submit" name="login" class="btn">Login</button>
+            </form>
+        </div>
+
+        <div class="form-box register">
+            <form action="/Log/Register" method="POST">
+                <h3>Create a new account</h3>
+                <div class="input-box">
+                    <input type="text" name="username" placeholder="Username" required>
+                    <i class="bx bxs-user"></i>
+                </div>
+                <div class="input-box">
+                    <input type="email" name="email" placeholder="Email" required>
+                    <i class="bx bxs-envelope"></i>
+                </div>
+                <div class="input-box">
+                    <input type="password" name="password" placeholder="Password" required>
+                    <i class="bx bxs-lock-alt"></i>
+                </div>
+                <button type="submit" name="register" class="btn">Sign up</button>
+            </form>
+        </div>
+
+        <div class="toggle-box">
+            <div class="toggle-panel toggle-left">
+                <h2>Welcome to Budget Buddy^^</h2>
+                <p>Don't have an account yet? <span style="font-style: italic;">Click here to sign up</span></p>
+                <button class="btn register-btn">Register</button>
+            </div>
+            <div class="toggle-panel toggle-right">
+                <h2>Welcome to Budget Buddy^^</h2>
+                <p style="font-style: italic;">Already have an Account?</p>
+                <button class="btn login-btn">Login</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="/js/script.js"></script>
+</body>
+</html>
